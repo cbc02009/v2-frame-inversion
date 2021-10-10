@@ -8,6 +8,7 @@ This is a work in progress.
 # Description
 
 Wiring Plan:
+* DIN rails will be mounted to the frame using the mounts from the trident repo. Electronics will also use the mounts from the trident repo.
 * A/B stepper wires will run through Z chain
 * X/Y endstops wires will run through Z and Y chains (how can we remove the y chain?)
 * Wires for Z and Y chains will come out of notch in rear of top deck plate (same size/location as standard v2, just in top panel) (Will this hole cause significant heat loss?)
